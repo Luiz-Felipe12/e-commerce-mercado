@@ -1,0 +1,5 @@
+
+1|1|carlos abneu|2020/10/22
+2|1|pizza|32|1|32
+1|2|irineu jubieu|2020/10/22
+2|6|bala|2|23|46

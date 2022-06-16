@@ -1,0 +1,6 @@
+1|pizza|32|0|pizza de calabreja
+2|lasanha|22|0|lasanha de frango
+3|hamburguer|13|2|
+4|farinha|12|2|
+5|açucar|6|1|
+6|bala|2|1|bala de iogurte
